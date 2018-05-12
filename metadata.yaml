@@ -1,0 +1,33 @@
+_repo: Rambles-by-Land-and-Wateror-Notes-of-Travel-in-Cuba-and-Mexico_36878
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norman, Benjamin Moore
+    alias: Norman, B. M. (Benjamin Moore)
+    birthdate: 1809
+    deathdate: 1860
+    gutenberg_agent_id: '38522'
+    url: http://www.gutenberg.org/2009/agents/38522
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36878'
+  lccn: 02009630
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cuba -- Description and travel'
+- !lcsh 'Mexico -- Antiquities'
+- !lcsh 'Veracruz-Llave (Mexico : State)'
+- !lcc 'F1201'
+- !lcsh 'Tamaulipas (Mexico : State)'
+- !lcsh 'Mexico -- Description and travel'
+title: Rambles by Land and Water; or, Notes of Travel in Cuba and Mexico
+url: http://www.gutenberg.org/ebooks/36878
