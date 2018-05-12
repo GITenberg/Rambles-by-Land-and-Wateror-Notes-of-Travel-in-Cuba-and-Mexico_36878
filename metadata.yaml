@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38522'
     url: http://www.gutenberg.org/2009/agents/38522
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36878#Rambles-by-Land-and-Wateror-Notes-of-Travel-in-Cuba-and-Mexico
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-07-28'
 gutenberg_type: Text
